@@ -1,0 +1,6 @@
+If your project folder is inside D:\React course\my-app, run:
+
+cd "D:\React course\textutils"
+npm start
+tab karna hain
+
